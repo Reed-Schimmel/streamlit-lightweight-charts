@@ -1,0 +1,3 @@
+recursive-include src/st_lightweight_charts/frontend *
+include README.md
+include LICENSE

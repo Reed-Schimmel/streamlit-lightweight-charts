@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+  "commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Reed Schimmel",
+      "author_email": "reed.on9yk@simplelogin.com",
+      "project_name": "Streamlit Lightweight Charts",
+      "package_name": "streamlit-lightweight-charts",
+      "import_name": "st_lightweight_charts",
+      "description": "Streamlit component for TradingView's performant financial charts built with HTML5 canvas.",
+      "deployment_via_github_actions": "y",
+      "working_with_dataframes": "y",
+      "open_source_license": "Apache Software License 2.0",
+      "_template": "https://github.com/blackary/cookiecutter-streamlit-component/"
+    }
+  },
+  "directory": null
+}
