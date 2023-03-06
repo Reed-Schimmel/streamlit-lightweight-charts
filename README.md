@@ -18,3 +18,8 @@ from st_lightweight_charts import st_lightweight_charts
 value = st_lightweight_charts()
 
 st.write(value)
+```
+
+## Refs
+- https://www.youtube.com/watch?v=OzCi9CKh6lI
+- https://www.youtube.com/watch?v=3KPW9VMyBHA
